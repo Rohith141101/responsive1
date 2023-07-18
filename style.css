@@ -28,6 +28,7 @@
     }
     .content p{
         margin-top: 20px;
+        text-align: justify;
     }
 }
 @media (min-width:600px){
@@ -46,6 +47,7 @@
     }
     .content p{
         margin-top: 20px;
+        text-align: justify;
     }
 }
 @media (min-width:768px){
@@ -64,6 +66,7 @@
     }
     .content p{
         margin-top: 20px;
+        text-align: justify;
     }
 }
 @media (min-width:992px){
@@ -82,13 +85,14 @@
     }
     .content p{
         margin-top: 20px;
+        text-align: justify;
     }
 }
 @media (min-width:1200px){
     .content{
         font-size: 20px;
         line-height:1.8;
-        padding:0px 20px 0px 20px;
+        padding:0px 25px 0px 20px;
         background-color:chartreuse;
         font-family: sans-serif;
     }
@@ -100,5 +104,6 @@
     }
     .content p{
         margin-top: 20px;
+        text-align: justify;
     }
 }
